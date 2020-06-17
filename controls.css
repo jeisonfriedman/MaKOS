@@ -1,0 +1,11 @@
+/* Tabla */
+#tablepucs tr {
+    border-top: none;
+    border-left: solid 1px transparent;
+}
+#tablepucs tr:hover {
+    background-color: rgba(0,0,0,0.04);
+    border-top: none;
+    border-left-color: rgba(0,0,0,0.12);
+    box-shadow: none;
+}

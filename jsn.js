@@ -1,4 +1,5 @@
 'use strict';
+var test = 'test';
 // Al cargar la página
 document.addEventListener('DOMContentLoaded', function() {
     // Declaraciones

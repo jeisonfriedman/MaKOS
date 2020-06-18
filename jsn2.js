@@ -11,6 +11,6 @@ document.addEventListener('DOMContentLoaded', function() {
         div.innerHTML = `<link href="${repUrl}" rel="stylesheet">`;
         head.appendChild(div.children[0]);
     }
-    alert(div.innerHTML)
-    //console.log(table);
+    // alert(div.innerHTML)
+    console.log(table);
 })

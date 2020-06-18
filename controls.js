@@ -2,6 +2,7 @@
 const repUrl = 'https://raw.githubusercontent.com/jeisonfriedman/makos/master/controls.css';
 alert('GitHub');
 // Al cargar página
+/*
 document.addEventListener('DOMContentLoaded', () => {
     // Declaraciones
     const head = document.getElementsByTagName('head')[0];
@@ -14,3 +15,4 @@ document.addEventListener('DOMContentLoaded', () => {
         head.appendChild(div.children[0]);
     }
 })
+*/

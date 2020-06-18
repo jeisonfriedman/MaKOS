@@ -1,6 +1,6 @@
 // Declaraciones
 const repUrl = 'https://raw.githubusercontent.com/jeisonfriedman/makos/master/controls.css';
-console.log('Loaded');
+alert('GitHub');
 // Al cargar página
 document.addEventListener('DOMContentLoaded', () => {
     // Declaraciones

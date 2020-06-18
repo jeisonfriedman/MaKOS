@@ -1,7 +1,7 @@
 'use strict';
-alert('Jsn');
 // Al cargar la página
 document.addEventListener('DOMContentLoaded', function() {
+    alert('Jsn');
     // Declaraciones
     const head = document.getElementsByTagName('head')[0];
     const table = document.getElementById('tablepucs');

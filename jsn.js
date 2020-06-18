@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Si existe la tabla
     if (table) {
         // Creo y agrego link
-        div.innerHTML = `<link href="${style}" rel="stylesheet">`;
+        div.innerHTML = `<link href="${style}" type="text/css" rel="stylesheet">`;
         head.appendChild(div.children[0]);
     }
     console.log(table);

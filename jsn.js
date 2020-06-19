@@ -5,6 +5,8 @@ const url = '//jeisonfriedman.github.io/MaKOS/';
 document.addEventListener('DOMContentLoaded', function() {
     // Aplico estilos
     applyStyles();
+    // Ajusto ortografía
+    correctSpelling();
 })
 
 // Aplica estilos
@@ -19,4 +21,12 @@ function applyStyles() {
         div.innerHTML = `<link href="${url}/controls.css" type="text/css" rel="stylesheet">`;
         head.appendChild(div.children[0]);
     }
+}
+
+// Corrijo ortografía
+function correctSpelling() {
+    // Declaraciones
+    const item = document.querySelector('#main-menu-navigation > li:nth-child(5) > a > span');
+    // Menú principal
+    if (item.innerHTML === 'Tesoreria') item.innerHTML = 'Tesorería';
 }

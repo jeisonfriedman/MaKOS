@@ -1,14 +1,15 @@
 /* Tabla */
 #tablepucs tr:first-child {
-    user-select: none;
+    pointer-events: none;
 }
 #tablepucs tr {
     border-top: none;
-    border-left: solid 1px transparent;
+    border-left: solid 1px transparent !important;
 }
 #tablepucs tr:hover {
     background-color: rgba(0,0,0,0.04);
     border-top: none;
-    border-left-color: rgba(0,0,0,0.12);
+    border-left-color: inherit;
+    /* border-left-color: rgba(0,0,0,0.12); */
     box-shadow: none;
 }

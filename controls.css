@@ -4,7 +4,7 @@
 }
 #tablepucs tr {
     border-top: none;
-    border: solid 1px transparent !important;
+    border-left: solid 1px transparent !important;
 }
 #tablepucs tr:hover {
     background-color: rgba(0,0,0,0.04);

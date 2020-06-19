@@ -1,1 +1,1 @@
-Este repositorio contiene ajustes aplicados en MaKOS Cloud a través de extensiones en el navegador.
+Los archivos de este repositorio son usados para aplicar ajustes en MaKOS Cloud a través de extensiones en el navegador.

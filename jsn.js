@@ -1,6 +1,6 @@
 'use strict';
 // Declaraciones
-const url = '//raw.githubusercontent.com/jeisonfriedman/makos/master';
+const url = '//jeisonfriedman.github.io/MaKOS/';
 // Al cargar la página
 document.addEventListener('DOMContentLoaded', function() {
     // Declaraciones

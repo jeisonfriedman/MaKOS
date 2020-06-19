@@ -10,7 +10,8 @@
     border-width: 0 1px 1px 1px !important;
 }
 .tableresponsive tr:not(:hover) {
-    border-color: transparent !important;
+    border-left-color: transparent !important;
+    border-right-color: transparent !important;
 }
 .tableresponsive tr:hover {
     background-color: rgba(0,0,0,0.04);

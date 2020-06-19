@@ -27,6 +27,7 @@ function applyStyles() {
 function correctSpelling() {
     // Declaraciones
     const item = document.querySelector('#main-menu-navigation > li:nth-child(5) > a > span');
+    console.log(item)
     // Menú principal
     if (item.innerHTML === 'Tesoreria') item.innerHTML = 'Tesorería';
 }

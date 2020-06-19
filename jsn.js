@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const div = document.createElement('div');
     // Si existe la tabla
     if (table) {
-        // Creo y agrego link
+        // Creo y agrego link        
         div.innerHTML = `<link href="${url}/controls.css" type="text/css" rel="stylesheet">`;
         head.appendChild(div.children[0]);
     }

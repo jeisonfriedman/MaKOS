@@ -1,4 +1,7 @@
 /* Tabla */
+#tablepucs thead {
+    user-select: none;
+}
 #tablepucs tr {
     border-top: none;
     border-left: solid 1px transparent;

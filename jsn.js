@@ -13,5 +13,5 @@ document.addEventListener('DOMContentLoaded', function() {
         div.innerHTML = `<link href="${url}/controls.css" type="text/css" rel="stylesheet">`;
         head.appendChild(div.children[0]);
     }
-    console.log('table', table);
+    console.log(url);
 })

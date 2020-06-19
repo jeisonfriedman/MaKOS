@@ -9,7 +9,7 @@
 #tablepucs tr:hover {
     background-color: rgba(0,0,0,0.04);
     border-top: none;
-    border-left-color: inherit;
+    border-left-color: inherit !important;
     /* border-left-color: rgba(0,0,0,0.12); */
     box-shadow: none;
 }

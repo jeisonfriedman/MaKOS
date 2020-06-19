@@ -1,5 +1,4 @@
 /* Tabla */
-#tablepucs thead,
 #tablepucs tr:first-child {
     user-select: none;
 }

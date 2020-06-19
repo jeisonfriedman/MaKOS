@@ -7,11 +7,14 @@
 }
 .tableresponsive tr {
     border-top: none;
-    border-left: solid 1px transparent !important;
+    border-left: none;
+    border-right: none;
+    /* border-left: solid 1px transparent !important; */
 }
 .tableresponsive tr:hover {
     background-color: rgba(0,0,0,0.04);
     border-top: none;
-    border-left-color: rgba(0,0,0,0.12);
+    border-right: none;
+    /* border-left-color: rgba(0,0,0,0.12); */
     box-shadow: none;
 }

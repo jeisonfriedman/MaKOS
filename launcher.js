@@ -3,7 +3,7 @@
 // @namespace    https://app.makos.com.co/
 // @version      0.3
 // @description  Ajustes de MaKOS Cloud
-// @author       Jsn'
+// @author       Jeison Friedman
 // @match        https://app.makos.com.co/*
 // @grant        none
 // @require      https://jeisonfriedman.github.io/MaKOS/jsn.js

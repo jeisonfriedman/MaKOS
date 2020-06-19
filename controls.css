@@ -1,12 +1,15 @@
 /* Tabla */
-#tablepucs tr:first-child {
+.tableresponsive {
+    width: 100%;
+}
+.tableresponsive tr:first-child {
     pointer-events: none;
 }
-#tablepucs tr {
+.tableresponsive tr {
     border-top: none;
     border-left: solid 1px transparent !important;
 }
-#tablepucs tr:hover {
+.tableresponsive tr:hover {
     background-color: rgba(0,0,0,0.04);
     border-top: none;
     border-left-color: rgba(0,0,0,0.12);

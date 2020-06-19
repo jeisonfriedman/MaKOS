@@ -1,0 +1,1 @@
+Este repositorio contiene ajustes aplicados en MaKOS Cloud a través de extensiones en el navegador.

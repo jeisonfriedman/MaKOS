@@ -2,7 +2,7 @@
 // @name         MaKOS Cloud Fixes
 // @namespace    https://app.makos.com.co/
 // @version      0.3
-// @description  try to take over the world!
+// @description  Ajustes de MaKOS Cloud
 // @author       Jsn'
 // @match        https://app.makos.com.co/*
 // @grant        none

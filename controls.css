@@ -6,13 +6,14 @@
     pointer-events: none;
 }
 .tableresponsive tr {
-    border: solid 1px rgba(0,0,0,0.12) !important;
-    border-width: 0 1px 1px 1px !important;
+    border: none !important;
+    border-bottom: inherit;
+    /* border-bottom: solid 1px rgba(0,0,0,0.12) !important; */
 }
-.tableresponsive tr:not(:hover) {
+/* .tableresponsive tr:not(:hover) {
     border-left-color: transparent !important;
     border-right-color: transparent !important;
-}
+} */
 .tableresponsive tr:hover {
     background-color: rgba(0,0,0,0.04);
     box-shadow: none;

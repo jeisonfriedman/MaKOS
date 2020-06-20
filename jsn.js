@@ -1,3 +1,11 @@
+// ==UserScript==
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_setClipboard
+// @grant        unsafeWindow
+// @grant        window.close
+// @grant        window.focus
+// ==/UserScript==
 'use strict';
 // Declaraciones
 const url = '//jeisonfriedman.github.io/MaKOS/';

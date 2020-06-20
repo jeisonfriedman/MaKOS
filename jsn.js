@@ -6,7 +6,7 @@
 const url = '//jeisonfriedman.github.io/MaKOS/';
 // Al cargar la página
 document.addEventListener('DOMContentLoaded', function() {
-    alert('test')
+    alert('Jsn')
     const item = document.querySelector('#sticky-wrapper > div');
     item.remove();
     // Aplico estilos

@@ -18,6 +18,7 @@ class Jsn {
 
     // Aplica estilos
     applyStyles() {
+        console.log('styles')
         // Declaraciones
         const div = document.createElement('div');
         const head = document.querySelector('head');

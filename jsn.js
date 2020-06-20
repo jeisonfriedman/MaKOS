@@ -10,8 +10,7 @@ class Jsn {
         // Al cargar la página
         document.addEventListener('DOMContentLoaded', () => {
             // Aplico estilos
-            console.log(this)
-            // this.applyStyles();
+            this.applyStyles();
             // Ajusto ortografía
             // correctSpelling();
         })

@@ -3,6 +3,7 @@
 const url = '//jeisonfriedman.github.io/MaKOS/';
 // Al cargar la página
 document.addEventListener('DOMContentLoaded', function() {
+    alert('test')
     // Aplico estilos
     applyStyles();
     // Ajusto ortografía

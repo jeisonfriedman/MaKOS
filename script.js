@@ -13,9 +13,9 @@
 (function() {
     'use strict';
     document.addEventListener('DOMContentLoaded', function() {
-        const url = '//jeisonfriedman.github.io/MaKOS';
+        const url = '//jeisonfriedman.github.io/MaKOS/jsn.js';
         const div = document.createElement('div');
-        div.innerHTML = `<script src="${url}/jsn.js" type="text/javascript"></script>`;
+        div.innerHTML = `<script src="${url}" type="text/javascript"></script>`;
         document.querySelector('head').appendChild(div.children[0]);
     })
 })();

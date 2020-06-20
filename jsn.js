@@ -8,7 +8,7 @@ class Jsn {
         // Propiedades
         this.url = '//jeisonfriedman.github.io/MaKOS/';
         // Al cargar la página
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', () => {
             // Aplico estilos
             this.applyStyles();
             // Ajusto ortografía

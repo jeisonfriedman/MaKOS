@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MaKOS Cloud Fixes
 // @namespace    https://app.makos.com.co/
-// @version      0.3
+// @version      0.4
 // @description  Ajustes de MaKOS Cloud
 // @author       Jeison Friedman
 // @match        https://app.makos.com.co/*

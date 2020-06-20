@@ -1,10 +1,5 @@
 // ==UserScript==
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @grant        GM_setClipboard
-// @grant        unsafeWindow
-// @grant        window.close
-// @grant        window.focus
+// @grant        none
 // ==/UserScript==
 'use strict';
 // Declaraciones
